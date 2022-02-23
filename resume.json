@@ -1,0 +1,134 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": false
+  },
+  "profile": {
+    "name": "雷阳",
+    "email": "19909238832@163.com",
+    "mobile": "19909238832",
+    "github": "https://github.com/visiky",
+    "zhihu": "https://zhihu.com/people/visiky",
+    "workExpYear": "",
+    "workPlace": "陕西西安",
+    "positionTitle": "Java开发工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": "2018.09.01,2022.06.30",
+      "school": "西安电子科技大学",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET4",
+      "award_time": "2015",
+      "dataIndex": 0
+    },
+    {
+      "award_info": "蚂蚁近卫军 卓越个人奖",
+      "award_time": "2018.09"
+    },
+    {
+      "award_info": "前端练习生 可视化讲师",
+      "award_time": "2020.10"
+    },
+    {
+      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+      "award_time": "2021.07"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "北京柯莱特",
+      "department_name": "弹性计算团队",
+      "work_time": "2018.06,",
+      "work_desc": "1. 担任阿里云远程连接产品 “workbench” 西安团队的后端负责人\n2. 负责阿里云产品 “workbench” 的移动端运维、文件分发、授权鉴权体系的能力建设",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "西安三茗科技",
+      "department_name": "技术部",
+      "work_time": "2018.11,2020.10",
+      "work_desc": "参与开发多类产品：兵器数据研发平台、兵器安全平台、信息安全管理的研发工作，有良好的编码习惯。",
+      "dataIndex": 1
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "云产品",
+      "skill_desc": "有阿里云计算/云服务器相关产品（workbench）开发的经验，持有阿里云计算ACA证书",
+      "skill_level": 90,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "框架",
+      "skill_desc": "熟练使用 SpringBoot、Spring Cloud、SpringMVC、MyBatis 等主流开发框架",
+      "skill_level": 89,
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "中间件、缓存",
+      "skill_level": 90,
+      "dataIndex": 2,
+      "skill_desc": "熟悉常用消息中间件、缓存的原理及使用"
+    },
+    {
+      "skill_name": "数据库",
+      "skill_desc": "熟悉数据库事务、索引等基本概念，掌握基本的SQL优化以及数据库调优方法",
+      "skill_level": 80,
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "网络编程",
+      "skill_level": 80,
+      "skill_desc": "熟悉网络编程，了解HTTP/WebSocket等协议，熟悉SSH、RDP、FTP等协议",
+      "dataIndex": 4
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "阿里云 ECS-Workbench",
+      "project_role": "后端负责人",
+      "project_time": "2019.04 - 2020.06",
+      "project_desc": "ECS Workbench 提供远程访问阿里云ECS实例的能力，给用户提供Web界面远程访问ECS实例桌面、Shell及文件传输、安全审计、会话录像以及录像回放等功能。阿里云用户可以高效、安全、便捷、可审计地访问ECS资源，远程登录ECS 实例进行日常工作（如开发、运维、文件处理)等 。",
+      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "Workbench管理平台",
+      "project_role": "后端负责人",
+      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+      "project_desc": "类似于阿里云嫦娥平台，从全局的解决进行资源和状态的查询及管理，以及对业务数据和控制等，避免人工直接进行数据库数据订正操作。",
+      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "兵器数据研发平台",
+      "project_role": "Java开发工程师",
+      "project_time": "2019 - 至今",
+      "project_desc": "兵器安全管理系统是一款专注于企业安全生产及管理的系统。",
+      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。",
+      "dataIndex": 2
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 Focus on Cloud product development 😈 能力项：沟通协调能力、执行力\n    自驱型后端工程师，有阿里云复杂产品的开发经验，负责阿里云远程连接产品 workbench 的可视化建设，参与了workbench 从单纯远程连接工具到具备移动端运维、文件分发、回放审计等解决用户痛点问题的蜕变，在这个过程中对服务端建设有了较为丰富的经验。 目前是 workbench 开发小组西安站的主要负责人。\n    "
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
